@@ -1,0 +1,24 @@
+{
+  "name": "jokes-api",
+  "version": "1.0.0",
+  "description": "random jokes API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzoverardo/jokes-api.git"
+  },
+  "keywords": [],
+  "author": "lorenzoverardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorenzoverardo/jokes-api/issues"
+  },
+  "homepage": "https://github.com/lorenzoverardo/jokes-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "limiting-middleware": "^1.3.2"
+  }
+}
