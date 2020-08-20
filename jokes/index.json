@@ -312,7 +312,7 @@
     "punchline": "I don't know... it keeps changing."
   },
   {
-    "setup": "A weasel walks into a bar. The bartender says, 'Wow, I've never served a weasel before. What can I get for you?'",
+    "setup": "A weasel walks into a bar. The bartender says: 'Wow, I've never served a weasel before. What can I get for you?'",
     "punchline": "Pop,goes the weasel."
   },
   {
@@ -1497,15 +1497,15 @@
   },
   {
     "setup": "A DHCP packet walks into a bar and asks for a beer.",
-    "punchline": "Bartender says, 'here, but I’ll need that back in an hour!'"
+    "punchline": "Bartender says: 'Here, but I’ll need that back in an hour!'"
   },
   {
     "setup": "3 SQL statements walk into a NoSQL bar. Soon, they walk out",
     "punchline": "They couldn't find a table."
   },
   {
-    "setup": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’",
-    "punchline": "I couldn’t turn it down."
+    "setup": "I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on 'high'",
+    "punchline": "I couldn't turn it down."
   },
   {
     "setup": "My older brother always tore the last pages of my comic books, and never told me why.",
@@ -1601,7 +1601,7 @@
     "punchline": "NoSQL."
   },
   {
-    "punchline": "A programmer's significant other tells them, 'Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.' The programmer comes home with 12 loaves of bread."
+    "punchline": "A programmer's significant other tells them: 'Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.' The programmer comes home with 12 loaves of bread."
   },
   {
     "setup": "What did the spider do on the computer?",
