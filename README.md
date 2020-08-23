@@ -3,7 +3,7 @@ The project is based on [this repo](https://github.com/15Dkatz/official_joke_api
 
 The jokes are served with [Express](https://github.com/expressjs/express).
 
-## Grab a random joke!
+## Grab a random joke
 [https://jokes-api-lv.ew.r.appspot.com/random_joke](https://jokes-api-lv.ew.r.appspot.com/random_joke)
 
 ## Grab a joke by id
