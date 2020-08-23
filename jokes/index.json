@@ -166,7 +166,7 @@
   },
   {
     "id" : 34,
-    "setup": "Knock knock. \n Who's there? \n Opportunity.",
+    "setup": "Knock knock. “Who's there?” “Opportunity”",
     "punchline": "That is impossible. Opportunity doesn’t come knocking twice!"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "id" : 61,
-    "setup": "Knock knock. Who's there? Hatch. Hatch who?",
+    "setup": "Knock knock. “Who's there?” “Hatch.” “Hatch who?”",
     "punchline": "Bless you!"
   },
   {
@@ -1841,7 +1841,7 @@
   },
   {
     "id" : 370,
-    "setup": "Knock-knock.",
+    "setup": "Knock knock.",
     "punchline": "A race condition. Who is there?"
   },
   {
@@ -2385,7 +2385,7 @@
   },
   {
     "id" : 481,
-    "punchline": "- Knock Knock! - An async function - Who's there?"
+    "punchline": "Knock Knock. “An async function” “Who's there?”"
   },
   {
     "id" : 482,
