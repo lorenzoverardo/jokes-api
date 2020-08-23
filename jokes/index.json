@@ -1725,6 +1725,11 @@
     "punchline": "It ran out of juice."
   },
   {
+    "id" : 346,
+    "setup": "What jumps and gives advice?",
+    "punchline": "A kanguru."
+  },
+  {
     "id" : 347,
     "setup": "Why didn’t the skeleton cross the road?",
     "punchline": "Because he had no guts."
@@ -2066,6 +2071,11 @@
     "id" : 415,
     "setup": "Where do all the cool mice live?",
     "punchline": "In their mousepads!"
+  },
+  {
+    "id" : 416,
+    "setup": "What advice do you give to a JS developer who has never played baseball?",
+    "punchline": "Try catch."
   },
   {
     "id" : 417,
@@ -2585,15 +2595,5 @@
     "id" : 521,
     "setup": "Why do Front-End Developers eat lunch alone?",
     "punchline": "Because, they don't know how to join tables."
-  },
-  {
-    "id" : 522,
-    "setup": "What advice do you give to a JS developer who has never played baseball?",
-    "punchline": "Try catch."
-  },
-  {
-    "id": 523,
-    "setup": "What jumps and gives advice?",
-    "punchline": "A kanguru."
   }
 ]
