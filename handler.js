@@ -4,4 +4,8 @@ const randomJoke = () => {
   return jokes[Math.floor(Math.random() * jokes.length)];
 }
 
-module.exports = { jokes, randomJoke };
+const jokeByID = (id) => {
+  return jokes.filter(joke => joke.id == id);
+}
+
+module.exports = { jokes, randomJoke, jokeByID };

@@ -1,6 +1,6 @@
 const express = require('express');
 const LimitingMiddleware = require('limiting-middleware');
-const { randomJoke } = require('./handler');
+const { randomJoke, jokeByID } = require('./handler');
 
 const app = express();
 
@@ -12,12 +12,16 @@ app.use((req, res, next) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Use /random_joke');
+  res.send('Use /random_joke or /joke/(number)');
 });
 
 app.get('/random_joke', (req, res) => {
   res.json(randomJoke());
 });
+
+app.get('/joke/:id', (req, res) => {
+  res.json(jokeByID(req.params.id));
+})
 
 app.use((err, req, res, next) => {
   const statusCode = err.statusCode || 500;
