@@ -15,9 +15,9 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Make s
 
 ```javascript
 {
-  "id": last joke id + 1,
-  "setup": "What's the best thing about a Boolean?",
-  "punchline": "Even if you're wrong, you're only off by a bit."
+  "id" : last joke id + 1,
+  "setup" : "What's the best thing about a Boolean?",
+  "punchline" : "Even if you're wrong, you're only off by a bit."
 }
 ```
 
