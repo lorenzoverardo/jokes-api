@@ -1,5 +1,7 @@
 # Jokes API
-The project is based on [this repo](https://github.com/15Dkatz/official_joke_api) and uses [Express](https://github.com/expressjs/express) to serve the jokes.
+The project is based on [this repo](https://github.com/15Dkatz/official_joke_api) and uses those jokes (which seem to be no longer maintained) plus these [dad jokes](https://github.com/wesbos/dad-jokes) and some others. Feel free to contribute with more, as shown below.
+
+The jokes are served with [Express](https://github.com/expressjs/express).
 
 ## Grab a random joke!
 [https://jokes-api-lv.ew.r.appspot.com/random_joke](https://jokes-api-lv.ew.r.appspot.com/random_joke)
