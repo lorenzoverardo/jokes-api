@@ -2595,5 +2595,55 @@
     "id": 521,
     "setup": "Why do Front-End Developers eat lunch alone?",
     "punchline": "Because, they don't know how to join tables."
+  },
+	{
+    "id": 522,
+		"setup": "Why are the arrays that Chuck Norris declare, of infinite size.",
+		"punchline": "Because Chuck Norris knows no bounds."
+	},
+	{
+    "id": 523,
+		"setup": "Why doesn't Chuck Norris need garbage collection.",
+		"punchline": "Because he doesn't call .Dispose(), he calls .DropKick()."
+	},
+  {
+    "id": 524,
+    "punchline": "When I wrote this code, only God and I understood what I was doing. Now, only God knows."
+  },
+	{
+    "id": 525,
+		"setup": "What did the Java code say to the C code?",
+		"punchline": "You've got no class."
+	},
+	{
+    "id": 526,
+		"setup": "What is the most used language in programming?",
+		"punchline": "Profanity."
+	},
+	{
+    "id": 527,
+		"setup": "Why did the geek add body { padding-top: 1000px; } to his Facebook profile?",
+		"punchline": "He wanted to keep a low profile."
+  },
+  {
+    "id": 528,
+    "punchline": "8 bytes walk into a bar, the bartenders asks “What will it be?” One of them says “Make us a double”."
+  },
+	{
+    "id": 529,
+    "punchline": "An SEO couple had twins. For the first time, they were happy with duplicate content."
+  },
+	{
+    "id": 530,
+    "punchline": "LISP - Lots of Infuriating Superfluous Parentheses"
+  },
+  {
+    "id": 531,
+    "punchline": "There are two ways to write error-free programs; only the third one works."
+  },
+  {
+    "id": 532,
+		"setup": "Why couldn't the developer pull the weeds from the garden?",
+		"punchline": "They didn't have root access."
   }
 ]
