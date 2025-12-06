@@ -21,9 +21,7 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Make s
 }
 ```
 
-***
-
-### Run Locally
+## Run Locally
 * Clone the repo
 * `npm i && npm start`
 * Visit `localhost:3000/random_joke` on your browser!
